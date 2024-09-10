@@ -1,4 +1,6 @@
 ## Hi there 👋
+I've been learning about machine learning and deep learning lately.
+Someday I want to have a job dealing with data.
 
 <!--
 **202031879/202031879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
